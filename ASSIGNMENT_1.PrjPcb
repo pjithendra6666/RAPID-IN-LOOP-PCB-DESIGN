@@ -168,6 +168,99 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=RVQIFDSR
 
+[Document8]
+DocumentPath=gerberfiles.OutJob
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[GeneratedDocument1]
+DocumentPath=Project Outputs for ASSIGNMENT_1\Design Rule Check - finalpcb.html
+DItemRevisionGUID=
+
+[GeneratedDocument2]
+DocumentPath=Project Outputs for ASSIGNMENT_1\NC Drill\finalpcb.DRR
+DItemRevisionGUID=
+
+[GeneratedDocument3]
+DocumentPath=Project Outputs for ASSIGNMENT_1\Gerber\finalpcb.EXTREP
+DItemRevisionGUID=
+
+[GeneratedDocument4]
+DocumentPath=Project Outputs for ASSIGNMENT_1\Gerber\finalpcb.G1
+DItemRevisionGUID=
+
+[GeneratedDocument5]
+DocumentPath=Project Outputs for ASSIGNMENT_1\Gerber\finalpcb.G2
+DItemRevisionGUID=
+
+[GeneratedDocument6]
+DocumentPath=Project Outputs for ASSIGNMENT_1\Gerber\finalpcb.GBL
+DItemRevisionGUID=
+
+[GeneratedDocument7]
+DocumentPath=Project Outputs for ASSIGNMENT_1\Gerber\finalpcb.GBO
+DItemRevisionGUID=
+
+[GeneratedDocument8]
+DocumentPath=Project Outputs for ASSIGNMENT_1\Gerber\finalpcb.GBP
+DItemRevisionGUID=
+
+[GeneratedDocument9]
+DocumentPath=Project Outputs for ASSIGNMENT_1\Gerber\finalpcb.GBS
+DItemRevisionGUID=
+
+[GeneratedDocument10]
+DocumentPath=Project Outputs for ASSIGNMENT_1\Gerber\finalpcb.GM
+DItemRevisionGUID=
+
+[GeneratedDocument11]
+DocumentPath=Project Outputs for ASSIGNMENT_1\Gerber\finalpcb.GM2
+DItemRevisionGUID=
+
+[GeneratedDocument12]
+DocumentPath=Project Outputs for ASSIGNMENT_1\Gerber\finalpcb.GTL
+DItemRevisionGUID=
+
+[GeneratedDocument13]
+DocumentPath=Project Outputs for ASSIGNMENT_1\Gerber\finalpcb.GTO
+DItemRevisionGUID=
+
+[GeneratedDocument14]
+DocumentPath=Project Outputs for ASSIGNMENT_1\Gerber\finalpcb.GTP
+DItemRevisionGUID=
+
+[GeneratedDocument15]
+DocumentPath=Project Outputs for ASSIGNMENT_1\Gerber\finalpcb.GTS
+DItemRevisionGUID=
+
+[GeneratedDocument16]
+DocumentPath=Project Outputs for ASSIGNMENT_1\NC Drill\finalpcb.LDP
+DItemRevisionGUID=
+
+[GeneratedDocument17]
+DocumentPath=Project Outputs for ASSIGNMENT_1\Gerber\finalpcb.REP
+DItemRevisionGUID=
+
+[GeneratedDocument18]
+DocumentPath=Project Outputs for Free Documents\ExportSTEP\finalpcb.step
+DItemRevisionGUID=
+
+[GeneratedDocument19]
+DocumentPath=Project Outputs for ASSIGNMENT_1\NC Drill\finalpcb.TXT
+DItemRevisionGUID=
+
 [Configuration1]
 Name=Sources
 ParameterCount=0
